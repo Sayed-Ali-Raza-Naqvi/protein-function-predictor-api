@@ -1,0 +1,21 @@
+# Core ML
+torch>=2.2.0
+fair-esm==2.0.0
+scikit-learn==1.4.2
+numpy==1.26.4
+
+# Dimensionality reduction + visualization
+umap-learn==0.5.6
+matplotlib==3.9.0
+seaborn==0.13.2
+
+# API
+fastapi==0.111.0
+uvicorn==0.29.0
+pydantic==2.7.1
+
+# Data handling
+pandas==2.2.2
+
+# Model persistence
+joblib==1.4.2
