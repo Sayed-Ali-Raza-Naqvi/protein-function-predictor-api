@@ -1,4 +1,4 @@
-# Protein Function Predictor API
+# Protein Function Predictor
 
 ## Overview
 This project provides a FastAPI-based web service for predicting protein function (Kinase vs Transporter) directly from raw amino acid sequences. It leverages ESM-2 transformer embeddings and a classical machine learning classifier for fast, accurate predictions. The project includes tools for data preprocessing, embedding generation, model training, and visualization.
