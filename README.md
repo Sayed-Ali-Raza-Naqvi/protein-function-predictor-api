@@ -133,7 +133,7 @@ Interactive docs: http://localhost:8000/docs
 
 UMAP is used to reduce the 320-dim embeddings to 2D for visualization. Below is a sample plot of the embedding space colored by class:
 
-![UMAP plot of protein embeddings](notebooks/umap_plot.png)
+![UMAP plot of protein embeddings](src/umap_plot.png)
 
 ---
 
