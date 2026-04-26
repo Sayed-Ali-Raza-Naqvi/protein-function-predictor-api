@@ -150,4 +150,4 @@ docker run -p 8000:8000 protein-function-api
 
 ## License
 
-MIT License. See LICENSE file.
+MIT License.
